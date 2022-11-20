@@ -28,6 +28,43 @@ When checking references to tasks, check rules, multiple accounts, etc. We notic
 
 The distribution of prizes among the winners will be made according to the prize table:
 
+![table prize](https://github.com/0xfunda/qoda-finance/blob/main/4.png)
+
+But that's not all. Not everyone has the time to participate in the program for various reasons, or is aware of the content, graphics, etc. We understand that it cannot. Therefore, we will distribute the 20,000 QODEX reward funds equally to 100 testnet users. We'll explain later what you can do to get the rewards.
+
+Testnet-related activities will continue until the launch on Moonriver. The list of 100 addresses that will receive the award will be published before the launch on Moonriver.
+
+Additionally, each winner of past and future competitions will receive 200 QODEX tokens.
+
+If a participant wins all three activities, they will receive all 3 prizes.
+
+join discord : https://discord.gg/hQHPWQV7 verify / go to roles and react on betatester
+
+testnet link : https://moonbase.qoda.fi  switch to moonbase Alpha
+
+faucet : https://apps.moonbeam.network/moonbase-alpha/faucet
+
+complete qoda crew3 : https://qoda.crew3.xyz
+
+Read the latest article from our blog to get more information:
+
+https://blog.qoda.fi/qoda-quests-incentive-program-9a31b3896a2
+
+
+### Qoda Ambassador Program
+
+We all have superpowers. Someone writes well, someone draws or creates cool designs, someone knows several languages, and someone speaks only one but loves to talk to others. Qoda gathers a team of such heroes   
+
+If you are interested:
+1) Fill out the form https://forms.gle/LQ7QLyWcu3NJnRtg9
+2) Wait for an email reply. It will take about 1-2 weeks. 
+3) If you are selected, you will receive a letter with further instructions. 
+
+P.S. If you do not receive an answer, do not worry. There will be future chances to get into the program!
+
+Read more about the ambassador program here: https://blog.qoda.fi/7cff4a8ebf9
+
+
 
 
 
