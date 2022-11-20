@@ -1,4 +1,4 @@
-# qoda-finance
+# Qoda-Finance
 
 #### Qoda Incentive Testnet
 ![Qoda Incentive Testnet](https://github.com/0xfunda/qoda-finance/blob/main/1_XOHxFxvk45K1v9gWUrfuiA.png)
